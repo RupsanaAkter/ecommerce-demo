@@ -112,7 +112,7 @@ function App() {
 
       <article className="px-8 pb-10">
         <h2 className="bg-slate-100 py-1 px-2 text-orange-400 uppercase tracking-wide text-sm font-bold inline-block rounded shadow mb-10">
-          Sneaker company
+          something company
         </h2>
         <h1 className="text-slate-900 mb-10 font-bold text-3xl lg:text-4xl">
           Fall Limited Edition Sneakers
